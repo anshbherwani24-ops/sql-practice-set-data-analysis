@@ -1,6 +1,6 @@
 
 
-\# 📘 SQL Customer Orders Analysis
+# 📘 SQL Customer Orders Analysis
 
 
 
